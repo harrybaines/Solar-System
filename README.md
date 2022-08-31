@@ -1,3 +1,3 @@
 # Object Oriented Solar System in Java
 
-[Solar System Visualisation](solar-system.gif)
+![Solar System Visualisation](solar-system.gif)
